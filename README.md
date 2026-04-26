@@ -1,48 +1,45 @@
+# 👋 Hi, I'm Abdul-Muti Awadallah!
 
-👋 Hello, I'm Abdul Moti Awadallah
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-🎓 Computer Science Graduate | 💻 Back-End Developer (PHP/Laravel) | 📍 Gaza, Palestine
-🚀 About Me
+### 🚀 About Me
+I am a **Backend Software Engineer** specializing in the **PHP & Laravel** ecosystem, with over 3+ years of experience in building scalable, secure, and high-performance web environments. I am passionate about **SOLID** principles, **Clean Code**, and delivering mission-critical production systems.
 
-A developer shaped by resilience. I’m a back-end web developer with a deep passion for building meaningful digital solutions.
-Graduated with a B.Sc. in Information Technology from Palestine University (Class of 2025), I’ve grown my skills through both academic excellence and real-world challenges.
+- 🛠️ Currently serving as a **Backend Team Lead** for advanced engineering initiatives.
+- 🏗️ Expert in **RESTful API** architecture, **OOP**, and **Design Patterns**.
+- ⚡ Proven ability to optimize database performance and reduce server latency by up to **40%**.
+- 🔐 Deeply interested in Information Security (RBAC, OAuth 2.0) and **AI** integration.
 
-Despite the daily struggles of power outages and limited access to resources in Gaza, I’ve:
+### 🛠️ Technical Skills
+- **Languages:** PHP (Advanced), JavaScript (ES6+), SQL.
+- **Frameworks:** Laravel (Eloquent, Sanctum, Livewire), Filament.
+- **Databases:** MySQL, PostgreSQL, Redis (Caching).
+- **Security:** RBAC, OAuth 2.0, 2FA, API Authentication, Middleware.
+- **DevOps & Tools:** Docker, Git, GitHub, CI/CD, AWS, Agile/Scrum.
 
-    💡 Built and deployed multiple academic & freelance projects
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulmotiawadallah&show_icons=true&theme=radical&hide_border=true" alt="Abdulmotiawadallah's GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulmotiawadallah&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-    🌍 Represented Palestine in Model United Nations (MUN)
+### 💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmotiawadallah&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
 
-    🤝 Volunteered in humanitarian organizations as a data assistant & IT support
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/amoticodes](https://www.linkedin.com/in/amoticodes)
+- **Email:** [abdulmotiawadallah@gmail.com](mailto:abdulmotiawadallah@gmail.com)
 
-    🏢 Interned at a local software firm, contributing to Laravel-based systems
-
-Each obstacle fueled my passion for technology—and taught me the value of persistence.
-🛠️ Tech Stack
-
-    Back-End: PHP, Laravel
-
-    Database: MySQL
-
-    Front-End: HTML, CSS, JavaScript (basics)
-
-    Version Control: Git & GitHub
-
-    Architecture: MVC, RESTful APIs
-
-    Creative Tools: Adobe Photoshop, Premiere Pro
-
-📫 Contact Me
-
-    📧 Email: abdulmotiawadallah@gmail.com
-
-    🔗 LinkedIn: linkedin.com/in/abdul-moti-awadalla-912697228
-
-    📷 Instagram: @its_abodo
-
-    📄 Resume: View My CV
-
-⚡ Fun Fact
-
-While others code in comfort, I’ve written backend logic by candlelight. I believe that talent shines brightest in the dark—and I’m here to prove it.
-🌟 Let’s collaborate, innovate, and build something impactful—together.
+---
+<p align="center">
+  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</i>
+</p>
